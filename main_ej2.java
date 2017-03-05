@@ -15,7 +15,7 @@ public class main_ej2 {
      public static void main(String[] args)
    {  
      // Set up the initial situation
-      int n=2;
+      //int n=2;//
       int m=3;
       City prague = new City();
 
